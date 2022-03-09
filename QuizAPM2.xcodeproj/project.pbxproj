@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8AC3EA8127D7A9A500DAB59E /* Pregunta.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC3EA8027D7A9A300DAB59E /* Pregunta.swift */; };
 		8AD6341127D657500008B7F2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AD6341027D657500008B7F2 /* AppDelegate.swift */; };
 		8AD6341327D657500008B7F2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AD6341227D657500008B7F2 /* SceneDelegate.swift */; };
 		8AD6341527D657500008B7F2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AD6341427D657500008B7F2 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8AC3EA8027D7A9A300DAB59E /* Pregunta.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pregunta.swift; sourceTree = "<group>"; };
 		8AD6340D27D657500008B7F2 /* QuizAPM2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuizAPM2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8AD6341027D657500008B7F2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8AD6341227D657500008B7F2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				8AD6341027D657500008B7F2 /* AppDelegate.swift */,
 				8AD6341227D657500008B7F2 /* SceneDelegate.swift */,
 				8AD6341427D657500008B7F2 /* ViewController.swift */,
+				8AC3EA8027D7A9A300DAB59E /* Pregunta.swift */,
 				8AD6341627D657500008B7F2 /* Main.storyboard */,
 				8AD6341927D657580008B7F2 /* Assets.xcassets */,
 				8AD6341B27D657580008B7F2 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				8AD6341527D657500008B7F2 /* ViewController.swift in Sources */,
 				8AD6341127D657500008B7F2 /* AppDelegate.swift in Sources */,
 				8AD6341327D657500008B7F2 /* SceneDelegate.swift in Sources */,
+				8AC3EA8127D7A9A500DAB59E /* Pregunta.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
